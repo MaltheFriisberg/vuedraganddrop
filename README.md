@@ -1,5 +1,5 @@
 # vuedragdrop
-
+a simple show case of HTML5 dragable API with Vue.js
 ## Project setup
 ```
 npm install
